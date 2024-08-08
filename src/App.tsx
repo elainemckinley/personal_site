@@ -24,6 +24,9 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
+        <p>
+          <a href="google.com">How does this look?</a>
+        </p>
       </div>
       <p className="read-the-docs">:)</p>
     </>
