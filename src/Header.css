@@ -1,0 +1,27 @@
+.header {
+  place-content: end;
+  background-image: url("assets/banner.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-bottom: 1px solid white;
+}
+
+.header-nav {
+  display: flex;
+  place-items: start;
+  justify-content: flex-start;
+  align-items: flex-end;
+  padding-left: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+.header-nav-link {
+  font-size: 1.5em;
+  color: white;
+}
+
+.header-nav-link:not(:last-child)::after {
+  content: "|";
+  padding-left: 0.25em;
+  padding-right: 0.25em;
+}

@@ -25,7 +25,6 @@ a:hover {
 body {
   margin: 0;
   display: flex;
-  place-items: center;
   min-width: 320px;
   min-height: 100vh;
 }
@@ -58,13 +57,12 @@ button:focus-visible {
   :root {
     color: #f8f8f2;
     background-color: #5a5475;
+    font-family: "Georgia";
   }
   a {
     color: #8de1ec;
-    /* color: #8decbb; */
   }
   a:hover {
-    /* color: #8de1ec; */
     color: #f8f8f8;
   }
   button {
