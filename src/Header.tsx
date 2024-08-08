@@ -13,8 +13,8 @@ function Header() {
         <Link className="header-nav-link" to="/">
           Home
         </Link>
-        <Link className="header-nav-link" to="/about">
-          About
+        <Link className="header-nav-link" to="/blog">
+          Blog
         </Link>
       </div>
     </div>
