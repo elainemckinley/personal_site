@@ -1,3 +1,3 @@
-function() {
-	console.log('Hey, we loaded a script!');
-}();
+(function () {
+	console.log("*** This is coming from the script!");
+})();
