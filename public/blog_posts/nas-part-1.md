@@ -41,3 +41,9 @@ Not ideal.
 That does, however, mean that I have some choices made for me in terms of what to look for. I need to find a very small, _very_ quiet case. I need parts that draw very little power. And I'm not bound on having to work around existing parts (though I do have an old graphics card that might be nice to fit into the build, should I need offboard graphics at some point.) And there's surprisingly few cases in this arena. So I quickly settled on the JONSBO N2. Lots of drive bays for its tiny size, and looks like it'll fit in well enough with my furniture.
 
 ![](http://localhost:5173/public/blog_posts/assets/jonsbo-n2.png)
+
+Past that, I also wanted to slightly overspend on the CPU and memory, since I don't totally know what I'm going to want to do with this server yet apart from tinker. As such I went with something that struck a good balance between power consumption and price, and landed on a Ryzen 7 5700G. I also grabbed 32 gigs of memory -- I do know that I plan on running at least a few VMs for things like Jellyfin, and those can be huge memory hogs.
+
+Apart from that, there aren't too many interesting hardware choices I made here. I opted for a SATA SSD to keep the m.2 bay open for other peripherals. I got a single 10 TB hard drive, mostly because I don't know anything about RAID and backup stuff yet and am hesitant to drop any more money before I do. (Hell, I definitely don't need this much space, but the price difference between that drive and the lower capacity ones made it hard to pass up.)
+
+So, yeah! Now that this boring bit is out of the way, I'm excited to get started on the build next week, and will probably start teaching myself some of the software side of things in the meantime.
